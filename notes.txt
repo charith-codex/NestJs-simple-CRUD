@@ -1,0 +1,11 @@
+npm i -g @nestjs/cli
+nest new project-name
+npm run start
+npm run start:dev
+
+nest g controller movies
+nest g service movies
+nest g module movies
+
+# Tutorial
+https://youtu.be/BCl0p5gZ1yw?t
